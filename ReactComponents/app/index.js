@@ -13,4 +13,5 @@ const App = function(){
 }
 
 //rendering component
+
 ReactDOM.render(<App />,document.querySelector(".container"));
